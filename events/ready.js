@@ -10,6 +10,10 @@ let status = [
 		type: ActivityType.Playing,
 		name: 'Honkai: Star Rail',
 	},
+	{
+		type: ActivityType.Playing,
+		name: 'NIKKE',
+	},
 ];
 
 module.exports = {
