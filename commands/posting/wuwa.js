@@ -40,6 +40,7 @@ module.exports = {
 		const desc = interaction.options.getString('description');
 
 		const linkButton = new ButtonBuilder()
+			.setCustomId('wuwatemp')
 			.setEmoji('1242793000279740416')
 			.setStyle(ButtonStyle.Secondary)
 			.setDisabled(true);
