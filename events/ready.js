@@ -14,6 +14,10 @@ let status = [
 		type: ActivityType.Playing,
 		name: 'NIKKE',
 	},
+	{
+		type: ActivityType.Playing,
+		name: 'Wuthering Waves',
+	},
 ];
 
 module.exports = {
